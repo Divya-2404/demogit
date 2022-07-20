@@ -1,1 +1,4 @@
-hello
+this my first project
+first repository
+learning git and github
+trained by anish sir
